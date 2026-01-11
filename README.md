@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <a href="https://dashly-beige.vercel.app/">DASHLY.com</a>
+  <a href="https://dashly-five.vercel.app/">DASHLY.com</a>
 </div>
 
 <br/>
