@@ -35,8 +35,8 @@ DASHLY is an admin dashboard for managing the organization's functionalities, he
 ### 1. Clone the repository
 
 ```shell
-git clone https://github.com/Abdelrahman-Ashraf22/crypto-gold-tracker
-cd crypto-gold-tracker
+git clone https://github.com/Abdelrahman-Ashraf22/dashly
+cd dashly
 ```
 
 ### 2. Install npm dependencies
